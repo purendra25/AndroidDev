@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EspressoDaggerExamples</string>
+
+    <string name="fragment_list">List Fragment</string>
+    <string name="fragment_detail">Detail Fragment</string>
+
+    <string name="there_s_nothing_here">There\'s nothing here!</string>
+
+    <string name="text_error">Error</string>
+    <string name="text_ok">Ok</string>
+    <string name="blog_image">Blog image</string>
+</resources>
